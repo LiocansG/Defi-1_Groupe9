@@ -14,7 +14,7 @@ Avant de commencer, assurez-vous d'avoir les packages suivants installés sur vo
 Vous pouvez installer ces packages en utilisant la commande suivante :
 
 ```bash
-pip install numpy opencv-python tensorflow keras matplotlib tf_explain
+pip install numpy opencv-python tensorflow keras matplotlib tf-explain
 ```
 
 Assurez-vous également d'avoir une version de Python égale ou supérieure à la version recommandée.
