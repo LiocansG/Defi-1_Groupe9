@@ -25,10 +25,8 @@ Pour exécuter le code, nous recommandons l'utilisation de Google Colab. Suivez 
 
 1. Ouvrez le notebook sur [Google Colab](https://colab.research.google.com/).
 2. Importez le notebook du projet dans Google Colab.
-3. Assurez-vous d'avoir les fichiers contenu dossier "images" situé dans le dossier "1 - Classification d’images" dans le même répertoire que le notebook.
+3. Assurez-vous d'avoir les fichiers contenu dossier "image" situé dans le dossier "1 - Classification d’images" dans le même répertoire que le notebook.
 4. Exécutez les cellules du notebook pour lancer la classification d'images.
-
-Les images nécessaires pour la classification se trouvent dans le dossier "images". Assurez-vous qu'elles sont disponibles dans le même répertoire que votre notebook.
 
 ## Traitement en Temps Réel
 
